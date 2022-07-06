@@ -1,3 +1,3 @@
 # interact-with-gapminder-data-app
 
-Play with a CSV file
+Integrate with Streamlit this tutorial: https://carpentries-incubator.github.io/python-interactive-data-visualizations/08-publish-your-app/index.html
